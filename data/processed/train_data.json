@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Jane Smith 456 Oak Drive (123) 456-7890 jane.smith@email.com github.com/janesmith linkedin.com/in/janesmith www.janesmith.dev Example University Software Engineering",
+    "entities": [
+      {"start": 0, "end": 4, "label": "First Name"},
+      {"start": 5, "end": 10, "label": "Last Name"},
+      {"start": 11, "end": 24, "label": "Address"},
+      {"start": 25, "end": 38, "label": "Phone Number"},
+      {"start": 39, "end": 59, "label": "Email"},
+      {"start": 60, "end": 81, "label": "Github Account"},
+      {"start": 82, "end": 105, "label": "Linkedin Account"},
+      {"start": 106, "end": 122, "label": "Portfolio Website"},
+      {"start": 123, "end": 140, "label": "University"},
+      {"start": 141, "end": 160, "label": "Major"}
+    ]
+  },
+  {
+    "text": "Michael Johnson 789 Pine Road (987) 654-3210 michael.johnson@mail.com github.com/mjohnson linkedin.com/in/michaeljohnson www.mjohnsonportfolio.com Example College Computer Science",
+    "entities": [
+      {"start": 0, "end": 7, "label": "First Name"},
+      {"start": 8, "end": 15, "label": "Last Name"},
+      {"start": 16, "end": 29, "label": "Address"},
+      {"start": 30, "end": 43, "label": "Phone Number"},
+      {"start": 44, "end": 69, "label": "Email"},
+      {"start": 70, "end": 89, "label": "Github Account"},
+      {"start": 90, "end": 118, "label": "Linkedin Account"},
+      {"start": 119, "end": 144, "label": "Portfolio Website"},
+      {"start": 145, "end": 159, "label": "University"},
+      {"start": 160, "end": 177, "label": "Major"}
+    ]
+  },
+  {
+    "text": "Emily Davis 321 Birch Lane (555) 678-1234 emily.davis@domain.org github.com/emilydavis linkedin.com/in/emilydavis www.emilydesigns.com Sample University Graphic Design",
+    "entities": [
+      {"start": 0, "end": 5, "label": "First Name"},
+      {"start": 6, "end": 11, "label": "Last Name"},
+      {"start": 12, "end": 26, "label": "Address"},
+      {"start": 27, "end": 40, "label": "Phone Number"},
+      {"start": 41, "end": 63, "label": "Email"},
+      {"start": 64, "end": 84, "label": "Github Account"},
+      {"start": 85, "end": 107, "label": "Linkedin Account"},
+      {"start": 108, "end": 126, "label": "Portfolio Website"},
+      {"start": 127, "end": 143, "label": "University"},
+      {"start": 144, "end": 158, "label": "Major"}
+    ]
+  },
+  {
+    "text": "Ryan Brown 987 Elm Street (321) 987-6543 ryan.brown@example.net github.com/ryanbrown linkedin.com/in/ryanbrown www.ryanb.dev University of Sample Data Science",
+    "entities": [
+      {"start": 0, "end": 4, "label": "First Name"},
+      {"start": 5, "end": 10, "label": "Last Name"},
+      {"start": 11, "end": 25, "label": "Address"},
+      {"start": 26, "end": 39, "label": "Phone Number"},
+      {"start": 40, "end": 63, "label": "Email"},
+      {"start": 64, "end": 83, "label": "Github Account"},
+      {"start": 84, "end": 106, "label": "Linkedin Account"},
+      {"start": 107, "end": 118, "label": "Portfolio Website"},
+      {"start": 119, "end": 139, "label": "University"},
+      {"start": 140, "end": 151, "label": "Major"}
+    ]
+  },
+  {
+    "text": "Sophia Lee 654 Maple Avenue (444) 222-3333 sophia.lee@personalmail.com github.com/sophialee linkedin.com/in/sophialee www.sophialee.me State University Information Systems",
+    "entities": [
+      {"start": 0, "end": 6, "label": "First Name"},
+      {"start": 7, "end": 10, "label": "Last Name"},
+      {"start": 11, "end": 27, "label": "Address"},
+      {"start": 28, "end": 41, "label": "Phone Number"},
+      {"start": 42, "end": 70, "label": "Email"},
+      {"start": 71, "end": 90, "label": "Github Account"},
+      {"start": 91, "end": 113, "label": "Linkedin Account"},
+      {"start": 114, "end": 128, "label": "Portfolio Website"},
+      {"start": 129, "end": 145, "label": "University"},
+      {"start": 146, "end": 165, "label": "Major"}
+    ]
+  },
+  {
+    "text": "James Wilson 432 Aspen Street (666) 555-4444 james.wilson@workemail.com github.com/jameswilson linkedin.com/in/jameswilson www.jameswilsonportfolio.net National College Mechanical Engineering",
+    "entities": [
+      {"start": 0, "end": 5, "label": "First Name"},
+      {"start": 6, "end": 12, "label": "Last Name"},
+      {"start": 13, "end": 29, "label": "Address"},
+      {"start": 30, "end": 43, "label": "Phone Number"},
+      {"start": 44, "end": 72, "label": "Email"},
+      {"start": 73, "end": 93, "label": "Github Account"},
+      {"start": 94, "end": 116, "label": "Linkedin Account"},
+      {"start": 117, "end": 142, "label": "Portfolio Website"},
+      {"start": 143, "end": 159, "label": "University"},
+      {"start": 160, "end": 182, "label": "Major"}
+    ]
+  }
+]
